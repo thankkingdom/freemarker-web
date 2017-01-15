@@ -1,4 +1,4 @@
-<#ftl output_format="HTML">
+<#ftl output_format="HTML" auto_esc=true>
 <article>
 	<header>
 		<table width="100%" style="background-color:black;">

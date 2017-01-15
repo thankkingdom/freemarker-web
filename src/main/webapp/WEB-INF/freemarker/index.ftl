@@ -1,4 +1,4 @@
-<#ftl output_format="HTML">
+<#ftl output_format="HTML" auto_esc=true>
 <html>
 <body>
 <#include "header.ftl">
