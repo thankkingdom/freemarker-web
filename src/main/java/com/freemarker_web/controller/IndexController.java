@@ -22,4 +22,10 @@ public class IndexController {
 		mav.addAllObjects(modelMap);
 		return mav;
 	}
+	
+	@RequestMapping("gos")
+	public ModelAndView gocart() {
+		ModelAndView mav = new ModelAndView();
+		return mav;
+	}
 }
