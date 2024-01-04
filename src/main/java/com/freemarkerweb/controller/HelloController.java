@@ -1,4 +1,4 @@
-package com.freemarker_web.controller;
+package com.freemarkerweb.controller;
 
 import java.util.Date;
 
